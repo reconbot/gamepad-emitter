@@ -1,0 +1,23 @@
+{
+  "name": "gamepad-emitter",
+  "version": "0.0.1",
+  "description": "A browser gamepad emitter",
+  "main": "gamepad-emitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reconbot/gamepad-emitter.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/reconbot/gamepad-emitter/issues"
+  },
+  "devDependencies": {
+    "browserify": "~2.34.3",
+    "grunt": "~0.4.1",
+    "grunt-browserify": "~1.2.9"
+  }
+}

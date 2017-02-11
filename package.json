@@ -16,8 +16,8 @@
     "url": "https://github.com/reconbot/gamepad-emitter/issues"
   },
   "devDependencies": {
-    "browserify": "~2.34.3",
-    "grunt": "~0.4.1",
-    "grunt-browserify": "~1.2.9"
+    "browserify": "~14.0.0",
+    "grunt": "~1.0.1",
+    "grunt-browserify": "~5.0.0"
   }
 }
